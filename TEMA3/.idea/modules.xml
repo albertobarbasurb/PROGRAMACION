@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJE12/EJE12.iml" filepath="$PROJECT_DIR$/EJE12/EJE12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJE13/EJE13.iml" filepath="$PROJECT_DIR$/EJE13/EJE13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJE14/EJE14.iml" filepath="$PROJECT_DIR$/EJE14/EJE14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJE15/EJE15.iml" filepath="$PROJECT_DIR$/EJE15/EJE15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEMA3_IF.iml" filepath="$PROJECT_DIR$/TEMA3_IF.iml" />
+    </modules>
+  </component>
+</project>

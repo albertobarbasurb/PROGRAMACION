@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJE01/EJE01.iml" filepath="$PROJECT_DIR$/EJE01/EJE01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEMA3_SWITCHFOR.iml" filepath="$PROJECT_DIR$/TEMA3_SWITCHFOR.iml" />
+    </modules>
+  </component>
+</project>

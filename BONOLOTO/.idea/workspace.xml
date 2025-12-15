@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ae9c0fb-9b73-4010-aa3c-8b88cd4f5b96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TEMA3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE12/EJE12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE12/src/ComprobarPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE13/EJE13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE13/src/Calculoentrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE14/EJE14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE14/src/Prestamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE15/EJE15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE15/src/Envios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/EJE15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3/TEMA3_IF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_SWITCHFOR/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_SWITCHFOR/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_SWITCHFOR/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_SWITCHFOR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_SWITCHFOR/EJE01/EJE01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_SWITCHFOR/EJE01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_SWITCHFOR/TEMA3_SWITCHFOR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_WHILEDOWHILE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_WHILEDOWHILE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_WHILEDOWHILE/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_WHILEDOWHILE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_WHILEDOWHILE/EJER01/EJER01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_WHILEDOWHILE/EJER01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA3_WHILEDOWHILE/TEMA3_WHILEDOWHILE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYMULTI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYMULTI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYMULTI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYMULTI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYMULTI/EJE1/EJE1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYMULTI/EJE1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYMULTI/TEMA4_ARRAYMULTI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYUNI/TEMA4_ARRAYUNI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA4_ARRAYUNI/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA_ARRAYS_UNIDIME/T3_Ej/T3_Ej.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA_ARRAYS_UNIDIME/T3_Ej/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEMA_ARRAYS_UNIDIME/TEMA_ARRAYS_UNIDIME.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="36Zf02L7FXODB2W7LcyorZwVAdG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BONOLOTO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BONOLOTO" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ae9c0fb-9b73-4010-aa3c-8b88cd4f5b96" name="Changes" comment="" />
+      <created>1765218791134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765218791134</updated>
+    </task>
+    <servers />
+  </component>
+</project>
